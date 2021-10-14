@@ -1,0 +1,14 @@
+{
+  "name": "pg-vids",
+  "version": "1.0.0",
+  "description": "plugins de video",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSp"
+  ],
+  "author": "Adrian Spinosi",
+  "license": "ISC"
+}
